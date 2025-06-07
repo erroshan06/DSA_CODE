@@ -35,7 +35,7 @@ Each solution generally contains:
 If you're also exploring DSA or working on similar goals, feel free to connect!
 
 - [LinkedIn](https://www.linkedin.com/in/roshan-kumar-6b38bb332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2CXqnjMoTuyBKzQFz4nPAg%3D%3D)
-- [My GitHub Profile](https://github.com/)
+- [My GitHub Profile](https://github.com/erroshan06)
 
 ---
 
