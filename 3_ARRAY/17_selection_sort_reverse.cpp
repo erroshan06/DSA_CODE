@@ -42,7 +42,7 @@ int main()
     cout << "Enter the size of array :";
     cin >> size;
     int arr[10000];
-    cout<<"Enter the element ";
+    cout<<"Enter the elements ";
     for (int i = 0; i < size; i++)
     {
         cin >> arr[i];
@@ -52,18 +52,21 @@ int main()
     {
         cout << arr[i] << " ";
     }
-    cout << endl;
-    cout << "After sorting element in ascending order:";
+
+
+      selection_sort_increasing(arr, size);
+    cout << "\nAfter sorting element in ascending order:";
     for (int i = 0; i < size; i++)
     {
-        selection_sort_increasing(arr, size);
+      
         cout << arr[i] << " ";
     }
-    cout << endl;
-    cout << "After sorting element in descending order:";
+ 
+         selection_sort_decreasing(arr, size);
+    cout << "\nAfter sorting element in descending order:";
     for (int i = 0; i < size; i++)
     {
-        selection_sort_decreasing(arr, size);
+   
         cout << arr[i] << " ";
     }
     cout << endl;
